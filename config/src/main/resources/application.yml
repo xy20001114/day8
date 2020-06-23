@@ -8,7 +8,7 @@ spring:
       server:
         git:
           #配置github
-          uri: https://github.com/xy20001114/springcloud-hourse.git
+          uri: https://github.com/xy20001114/day8.git
           #配置搜索目录
           search-paths:
             - configfiles
